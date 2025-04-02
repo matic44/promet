@@ -9,7 +9,7 @@
     <h1>Matic Ušaj</h1>
     <?php
         // gesla se ne pišejo v programske stavke. napiši v svojo datoteko in datoteko izključi iz GIT-a (git ignore)
-        // 
+        // Komentar znotra Gita
 		require_once 'db_config.php';
         $conn = new mysqli($servername, $username, $password, $database);
 
